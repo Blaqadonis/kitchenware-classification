@@ -1,0 +1,2 @@
+# kitchenware-classification
+With more than 9000 photos of kitchen utensils, my model was able to achieve a 93% accuracy in classifying them into spoons, forks, cups, glasses, knives, and plates. With a little more augmentation, i am confident that I can bump that accuracy up. One major issue that I had was telling "glasses" and "glass cups" apart. I used handles as major logic but even some glass cups are without handles.
